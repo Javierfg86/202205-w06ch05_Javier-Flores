@@ -1,0 +1,8 @@
+h1 {
+    color: deepskyblue;
+    justify-self: center;
+}
+div {
+    height: 20vh;
+    display: flex;
+}
