@@ -1,0 +1,7 @@
+small {
+    justify-content: center;
+    color: purple;
+}
+div {
+    display: flex;
+}
